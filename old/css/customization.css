@@ -1,0 +1,13 @@
+body{
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+a.brand{
+    background: url(../img/justicegold.png) no-repeat;
+}
+
+.navbar-inner, footer {
+    border: none;
+    padding: 15px 0;
+    background: url('../img/low_contrast_linen.png');
+}
